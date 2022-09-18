@@ -1,0 +1,15 @@
+U:\C#\GB\Praktikum\FinalTest\bin\Debug\net6.0\FinalTest.exe
+U:\C#\GB\Praktikum\FinalTest\bin\Debug\net6.0\FinalTest.deps.json
+U:\C#\GB\Praktikum\FinalTest\bin\Debug\net6.0\FinalTest.runtimeconfig.json
+U:\C#\GB\Praktikum\FinalTest\bin\Debug\net6.0\FinalTest.dll
+U:\C#\GB\Praktikum\FinalTest\bin\Debug\net6.0\FinalTest.pdb
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\FinalTest.csproj.AssemblyReference.cache
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfoInputs.cache
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfo.cs
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\FinalTest.csproj.CoreCompileInputs.cache
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\FinalTest.dll
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\refint\FinalTest.dll
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\FinalTest.pdb
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\FinalTest.genruntimeconfig.cache
+U:\C#\GB\Praktikum\FinalTest\obj\Debug\net6.0\ref\FinalTest.dll
